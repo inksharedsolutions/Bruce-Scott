@@ -12,11 +12,11 @@ const Author = () => {
                     <div className="grid-child" id="author-contents">
 
                         <p>
-                            Do you like Epic fantasy, do you like adventures that leave you hanging in the edge of your seat? then you will really enjoy reading Prince Gideon
+                        Bruce E. Scott is a native of Louisville, KY, son of Mae Teresa Scott and a graduate of Male High School. Right after graduating from high school, he enlisted in the United States Marine Corps (USMC). While serving in Iran he was given two novels to read, ¬ the Destroyer by Warren Murphy and ¬ the Executioner by Don Pendleton. After reading both novels he became so intrigued, he read the series, and this started his love for fictional books...
                         </p>
 
                         <h1 className="author-name-tag">
-                            <span>Gary Caplan</span>
+                            <span>Bruce Scott</span>
                         </h1>
 
                         <span className="author-tagline">

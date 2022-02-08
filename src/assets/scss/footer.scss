@@ -1,5 +1,5 @@
 .footer-section {
-    background: linear-gradient(to bottom, #a59c8d 0, #2e2a27);
+    background: linear-gradient(136deg, #324834 0, #ffffff);
     padding: 5% 9%;
     margin: 0 auto;
 
@@ -138,7 +138,7 @@
     p {
         font-size: 13px;
         padding-top: 2px;
-        
+        color: rgb(0, 0, 0);
     }
 }
 
@@ -157,7 +157,7 @@
     grid-template-columns: 32% 1fr;
 
     a {
-        color: #afafaf !important;
+        color: #000000 !important;
     }
 }
 

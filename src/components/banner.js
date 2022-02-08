@@ -13,7 +13,7 @@ const Banner = () => {
                             <div className="banner-text" id='bannercontent'>
 
                                 <h1>
-                                    Prince Gideon
+                                    THE FIVE
                                 </h1>
 
                             </div>

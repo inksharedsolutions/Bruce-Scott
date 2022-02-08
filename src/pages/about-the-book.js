@@ -13,7 +13,7 @@ const ATB = (props) => {
     const slug = (props.location.href);
 
     const disqusConfig = {
-        shortname: 'gary-caplan',
+        shortname: 'bruce-scott',
         config: { identifier: 12, slug }
     }
 
@@ -21,7 +21,7 @@ const ATB = (props) => {
     return (
         <>
             <Layout>
-                <Helmet title="About the Book | Gary Caplan" />
+                <Helmet title="About the Book | Bruce Scott" />
                 <Nav pathExt={props.path} />
 
                 <Banner
@@ -36,25 +36,29 @@ const ATB = (props) => {
 
                         <BookInfo
                             data={{
-                                title: `Prince Gideon`,
+                                title: `The Five`,
                                 spanFirst: ``,
                                 imgSrc: Book1,
                                 id: 'sailor-sermon',
                                 content:
                                     `
                                     <p>
-                                        Gary Caplan was born in Philadelphia and earned three bachelor’s degrees from the University of Pittsburgh, later earning M.D. and M.P.H. degrees. He serves as a colonel and preventive medicine officer in the reserves and has published articles in medical journals. Caplan became interested in reading science fiction and fantasy books as a young man and, after practicing medicine for several years, began to write his own fiction. At first strictly a hobby, his writing flourished and he decided to publish both a science fiction and sword and sorcery novels in his spare time.
+                                    The American Revolutionary War is over! The Treaty of Paris is signed. British troops have left New York and returned to England. The Republic is safe...or is it? That's what everyone believed. But brewing across the waters is more unrest. The Five has been given the assignment to find out and stop the unrest, even on enemy soil.
+                                    </p>
+                                    <br>
+                                    <p>
+                                    Who are "the Five"? How do they accomplish their missions? Find out this and more from first-time author Bruce E. Scott in this historical romance fiction thriller, The Five.
                                     </p>
                                     `,
                                 ebooks: {
                                     // stratton: 'https://www.stratton-press.com/books/heroes-and-villains-california-dreaming-book-i/',
-                                    barnes: 'https://www.barnesandnoble.com/w/prince-gideon-gary-caplan/1140783582?ean=9781648956386',
-                                    amazon: 'https://www.amazon.com/Prince-Gideon-Chronicles-Ill%C3%BAmaril-Vol/dp/1648956386/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1640182688&sr=8-1',
+                                    barnes: 'https://www.barnesandnoble.com/w/the-five-bruce-e-scott/1122104646?ean=9781648955051',
+                                    amazon: 'https://www.amazon.com/Five-Bruce-Scott-ebook/dp/B09C22KD5D/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1629126202&sr=8-1',
                                 },
                                 paperback: {
-                                    amazon: 'https://www.amazon.com/Prince-Gideon-Chronicles-Ill%C3%BAmaril-Vol-ebook/dp/B09NMSTZB7/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1640182688&sr=8-1',
-                                    barnes: 'https://www.barnesandnoble.com/w/prince-gideon-gary-caplan/1140783582?ean=9781648956393',
-                                    booksamillion: 'https://www.booksamillion.com/p/Prince-Gideon/Gary-Caplan/9781648956386?id=8158356429268',
+                                    amazon: 'https://www.amazon.com/Five-Bruce-Scott/dp/1648955045/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1629126202&sr=8-1',
+                                    barnes: 'https://www.barnesandnoble.com/w/the-five-bruce-e-scott/1122104646?ean=9781648955044',
+                                    booksamillion: 'https://www.booksamillion.com/p/Five/Bruce-Scott/9781648955044?id=8158356429268',
                                 }
                             }}
                         />

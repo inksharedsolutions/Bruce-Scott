@@ -124,7 +124,7 @@
 .heading--featured {
     span {
         display: block;
-        color: #27396b;
+        color: #000000;
     }
     // p{
     //     color: #ffff;
@@ -159,9 +159,9 @@
     // margin-left: 18em;
 
     h1 {
-        background: -webkit-linear-gradient(#f1f1f1, #323232);
+        background: -webkit-linear-gradient(#ffffff, #ffffff);
         -webkit-background-clip: text;
-        -webkit-text-fill-color: #000000ab;
+        -webkit-text-fill-color: #00000000;
         padding: 0;
         text-align: center;
         font-family: 'MedievalSharp';
