@@ -70,7 +70,7 @@ const Footer = () => {
                                 <li>
                                     <a
                                         target="_blank"
-                                        href="https://www.goodreads.com/user/show/89077099-stratton-press"
+                                        href="https://www.goodreads.com/book/show/59049441-the-five?ac=1&from_search=true&qid=HHr03haLov&rank=1"
                                         rel="noreferrer"
                                     >
 

@@ -59,7 +59,7 @@ const ATB = (props) => {
                                     amazon: 'https://www.amazon.com/Five-Bruce-Scott/dp/1648955045/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1629126202&sr=8-1',
                                     barnes: 'https://www.barnesandnoble.com/w/the-five-bruce-e-scott/1122104646?ean=9781648955044',
                                     booksamillion: 'https://www.booksamillion.com/p/Five/Bruce-Scott/9781648955044?id=8158356429268',
-                                    goodreads: 'https://www.goodreads.com/book/show/59049441-the-five?ac=1&from_search=true&qid=HHr03haLov&rank=1',
+                                    // goodreads: 'https://www.goodreads.com/book/show/59049441-the-five?ac=1&from_search=true&qid=HHr03haLov&rank=1',
                                 }
                             }}
                         />
